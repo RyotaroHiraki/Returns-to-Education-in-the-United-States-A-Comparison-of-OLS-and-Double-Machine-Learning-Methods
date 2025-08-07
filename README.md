@@ -21,13 +21,15 @@ The main focus is the assessment of model performance between OLS and DML on ret
 ---
 
 ## 📂 Repository Structure
+
 project-name/
-├── code/ # R scripts for data cleaning, analysis, and visualization
-├── data/ # Instructions or scripts for accessing datasets
-├── figures/ # Output plots, charts, and tables
-├── report/ # Thesis, presentation slides, summary documents
-├── sessionInfo.txt # R package and version info for reproducibility
-└── README.md # Project summary and instructions
+├── code/              # R scripts for data cleaning, analysis, and visualization
+├── data/              # Instructions or scripts for accessing datasets
+├── figures/           # Output plots, charts, and tables
+├── report/            # Thesis, presentation slides, summary documents
+├── sessionInfo.txt    # R package and version info for reproducibility
+└── README.md          # Project summary and instructions
+
 
 ---
 
