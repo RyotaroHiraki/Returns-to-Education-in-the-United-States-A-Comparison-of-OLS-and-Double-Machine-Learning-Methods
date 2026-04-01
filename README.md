@@ -6,9 +6,15 @@ This repository contains the data analysis code and materials for my research pr
 
 ## 📘 Overview
 
-This project investigates [briefly describe your research question] using data from [data source, e.g. PISA 2018, CPS 2024].
-
-The main focus is the assessment of model performance between OLS and DML on returns to education.
+This study examines the economic returns to education in the U.S. using 2024 CPS data and
+compares Ordinary Least Squares (OLS) regression with a Double Machine Learning (DML)
+framework incorporating models such as random forests, boosted trees, lasso, GAMs, and
+neural networks (MLP). Results show consistent returns of 8 to 9 percent per additional year
+of schooling across methods. Simulations reveal that all predictors perform well under linear
+assumptions if hyperparameters are optimally adjusted, while OLS/Lasso suffer from
+nonlinearity. Findings suggest that OLS remains robust in low-dimensional, near-linear
+contexts, offering practical guidance for economists and policymakers balancing model
+complexity and interpretability in education research.
 
 ---
 
