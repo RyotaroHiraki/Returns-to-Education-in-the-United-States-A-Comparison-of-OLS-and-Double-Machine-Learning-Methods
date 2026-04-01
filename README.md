@@ -43,8 +43,8 @@ project-name/
 
 ## 📄 Reports
 
-- 📘 Thesis: [`report/thesis.pdf`](report/thesis.pdf)
-- 📽️ Slides: [`report/presentation.pdf`](report/presentation.pdf)
+- Paper: [`Returns to Education in the United States: A Comparison of OLS and Double Machine Learning Methods`]
+- Slides: []
 
 ---
 
