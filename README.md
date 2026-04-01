@@ -43,7 +43,7 @@ project-name/
 
 ## 📄 Reports
 
-- Paper: Returns to Education in the United States: A Comparison of OLS and Double Machine Learning Methods
+- Paper: [paper.pdf](https://edre.uark.edu/_resources/pdf/edrewp-2026-02.pdf)
 - Slides: []
 
 ---
