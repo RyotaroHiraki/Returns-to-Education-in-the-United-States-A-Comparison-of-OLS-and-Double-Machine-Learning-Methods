@@ -49,7 +49,7 @@ project-name/
 
 ## 📄 Reports
 
-- Paper: [paper.pdf](https://edre.uark.edu/_resources/pdf/edrewp-2026-02.pdf)
+- Paper: **[paper.pdf](https://edre.uark.edu/_resources/pdf/edrewp-2026-02.pdf)**
 - Slides: []
 
 ---
