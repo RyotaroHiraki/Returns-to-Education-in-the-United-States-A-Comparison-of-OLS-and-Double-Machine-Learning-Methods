@@ -35,6 +35,9 @@ library(paradox)
 library(future)
 library(future.apply)
 
+#create session info
+writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
+
 ## ============================
 ## Pararel Processing settings
 ## ============================

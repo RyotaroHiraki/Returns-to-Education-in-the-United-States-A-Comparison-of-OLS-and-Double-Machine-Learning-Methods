@@ -2,8 +2,6 @@
 ####Data Preparation#
 #####################
 
-setwd('/Users/ryotarohiraki/Desktop/Spring2025/Economics of Education/final paper(35%)/data')
-
 library(haven)       # read data
 library(DoubleML)    # Double Machine Learning
 library(mlr3)        # ML models
@@ -20,10 +18,10 @@ library(dplyr)
 ########################
 
 #read a personal dataset
-raw_cps2024 <- read_csv("asecpub24csv/pppub24.csv",col_types = cols(PERIDNUM = col_character())) |> zap_formats()
+raw_cps2024 <- read_csv("data/asecpub24csv/pppub24.csv",col_types = cols(PERIDNUM = col_character())) |> zap_formats()
 
 #read a household dataset
-raw_hcps2024 <- read_csv("asecpub24csv/hhpub24.csv", col_types = cols(H_IDNUM = col_character())) |> zap_formats()
+raw_hcps2024 <- read_csv("data/asecpub24csv/hhpub24.csv", col_types = cols(H_IDNUM = col_character())) |> zap_formats()
 
 #avoid ids to be a exponential form by importing as character
 
