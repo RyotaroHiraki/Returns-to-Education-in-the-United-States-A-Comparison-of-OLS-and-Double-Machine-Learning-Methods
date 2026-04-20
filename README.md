@@ -21,7 +21,7 @@ complexity and interpretability in education research.
 ## Methods
 
 - Statistical Models: OLS, Double Machine Learning (DML) (Random Forest, XGBoost, GAMs, Neural Nets(MLP))
-- Tools: R (fixest, tidyverse, ggplot2)
+- Tools: R 
 - Data Source: CPS 2024 cleaned and preprocessed in R
 
 ---
@@ -47,8 +47,6 @@ Paper:
 - [GLO Discussion Paper](https://ideas.repec.org/p/zbw/glodps/1733.html)
 - [IZA Discussion Paper](https://www.iza.org/publications/dp/18523/returns-to-education-in-the-united-states-a-comparison-of-ols-and-double-machine-learning-methods)
 
-Slides: []
-
 ---
 
 ## Reproducibility
@@ -73,6 +71,14 @@ University of Arkansas
 Email: rhiraki@uark.edu  
 Portfolio: 
 [`Github`](https://github.com/RyotaroHiraki)
+
+**Harry Patrinos**
+Head of Department of Education Reform
+University of Arkansas
+
+**Al Mensor Helal**
+Doctoral Academy Fellow
+University of Arkansas
 
 ---
 
