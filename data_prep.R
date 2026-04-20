@@ -159,22 +159,3 @@ cps_analysis %>%
   geom_histogram(bins = 30, fill = "skyblue", color = "black") +
   labs(x = "Log hourly wage") +
   theme_minimal()
-
-
-#barplot by state
-# cps_analysis %>%
-#   group_by(state_name) %>%
-#   summarise(mean = mean(hwage)) %>%
-#   ggplot(aes(x = state_name, y = mean, fill = state_name)) +
-#   geom_col(show.legend = F) +
-#   labs(x = "State", y = "Hourly wage") +
-#   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-
-# #boxplot by state
-# cps_analysis %>%
-#   ggplot(aes(x = state_name, y = hwage, fill = state_name)) +
-#   geom_boxplot(show.legend = FALSE) +
-#   labs(x = "State", y = "Hourly Wage") +
-#   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-
-#indiana and corolado -outlier(get rid of outliers above)
