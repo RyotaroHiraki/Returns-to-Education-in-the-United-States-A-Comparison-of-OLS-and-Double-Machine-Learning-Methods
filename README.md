@@ -33,7 +33,7 @@ project-name/
 ├── code/              # R scripts for data cleaning, analysis, and visualization
 ├── data/              # Instructions or scripts for accessing datasets
 ├── figures/           # Output plots, charts, and tables
-├── report/            # Thesis, presentation slides, summary documents
+├── report/            # Presentation slides
 ├── sessionInfo.txt    # R package and version info for reproducibility
 └── README.md          # Project summary and instructions
 </pre>
@@ -43,7 +43,7 @@ project-name/
 
 ## 📊 Sample Output
 
-![sample-plot](figures/example_plot.png)
+![sample-plot](figures/Figure1.png)
 
 ---
 
@@ -60,10 +60,9 @@ To reproduce this analysis:
 
 1. Clone this repository
 2. Open the `.R` files in `code/` in order:
-    - `01_data_cleaning.R`
-    - `02_descriptive_analysis.R`
-    - `03_regression_models.R`
-    - `04_visualization.R`
+    - `01_data_prep.R`
+    - `02_DML.R`
+    - `03_simulation.R`
 3. Install required packages (see `sessionInfo.txt`)
 4. Follow any instructions in `data/README.md` to access the dataset
 
