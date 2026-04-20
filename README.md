@@ -65,18 +65,18 @@ To reproduce this analysis:
 
 ## Author
 
-**Ryotaro Hiraki**  
+**Ryotaro Hiraki: **  
 M.S. in Economic Analytics
 University of Arkansas
 Email: rhiraki@uark.edu  
 Portfolio: 
 [`Github`](https://github.com/RyotaroHiraki)
 
-**Harry Patrinos**
+**Harry Patrinos: **
 Head of Department of Education Reform
 University of Arkansas
 
-**Al Mensor Helal**
+**Al Mensor Helal: **
 Doctoral Academy Fellow
 University of Arkansas
 
