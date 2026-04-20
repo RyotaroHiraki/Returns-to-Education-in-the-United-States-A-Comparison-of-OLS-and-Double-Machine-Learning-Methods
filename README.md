@@ -4,7 +4,7 @@ This repository contains the data analysis code and materials for my research pr
 
 ---
 
-## 📘 Overview
+## Overview
 
 This study examines the economic returns to education in the U.S. using 2024 CPS data and
 compares Ordinary Least Squares (OLS) regression with a Double Machine Learning (DML)
@@ -18,7 +18,7 @@ complexity and interpretability in education research.
 
 ---
 
-## 🛠 Methods
+## Methods
 
 - Statistical Models: OLS, Double Machine Learning (DML) (Random Forest, XGBoost, GAMs, Neural Nets(MLP))
 - Tools: R (fixest, tidyverse, ggplot2)
@@ -26,7 +26,7 @@ complexity and interpretability in education research.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 <pre>
 project-name/
@@ -38,23 +38,20 @@ project-name/
 └── README.md          # Project summary and instructions
 </pre>
 
+---
+
+## Reports
+
+Paper: 
+- [EDRE working paper](https://edre.uark.edu/_resources/pdf/edrewp-2026-02.pdf)
+- [GLO Discussion Paper](https://ideas.repec.org/p/zbw/glodps/1733.html)
+- [IZA Discussion Paper](https://www.iza.org/publications/dp/18523/returns-to-education-in-the-united-states-a-comparison-of-ols-and-double-machine-learning-methods)
+
+Slides: []
 
 ---
 
-## 📊 Sample Output
-
-![sample-plot](figures/Figure1.png)
-
----
-
-## 📄 Reports
-
-- Paper: **[See full working paper](https://edre.uark.edu/_resources/pdf/edrewp-2026-02.pdf)**
-- Slides: []
-
----
-
-## 🔄 Reproducibility
+## Reproducibility
 
 To reproduce this analysis:
 
@@ -68,19 +65,18 @@ To reproduce this analysis:
 
 ---
 
-## 👤 Author
+## Author
 
 **Ryotaro Hiraki**  
 M.S. in Economic Analytics
 University of Arkansas
-📧 Email: rhiraki@uark.edu  
-🌐 Portfolio: 
-[`Notion`](https://west-son-9ad.notion.site/Portfolio-219bf119c1a0801eab7dd6651c4b97c8?source=copy_link)
+Email: rhiraki@uark.edu  
+Portfolio: 
 [`Github`](https://github.com/RyotaroHiraki)
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 > Due to licensing restrictions, raw data is not included in this repository.  
 > Please refer to `data/README.md` for instructions on accessing the dataset from the official source.
